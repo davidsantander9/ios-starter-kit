@@ -9,6 +9,7 @@
 - [Error Handling](Basics/Error%20Handling/README.md)
 - [Basic Operator](Basics/Basic%20Operators/README.md)
 - [Strings](Basics/Strings/README.md)
+- [Collectios Types](Basics/Strings/README.md)
 
 ### Data Structures
 - [Tuples](Basics/Data%20Structure/README.md)

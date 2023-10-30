@@ -3,9 +3,9 @@
 ## Intro to Programming and swift Basics
 ### Basics
 - [Swift Tour](Swift%20Tour.md)
-- [The basics](basics/README.md)
-- [Numbers](basics/Numbers/README.md)
-- [Optional](basics/Optional/README.md)
+- [The basics](Basics/README.md)
+- [Numbers](Basics/Numbers/README.md)
+- [Optional](Basics/Optional/README.md)
 
 ### Data Structures
-- [Tuples](basics/Data%20Structure/README.md)
+- [Tuples](Basics/Data%20Structure/README.md)

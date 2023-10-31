@@ -13,4 +13,4 @@
 
 ### Data Structures
 - [Tuples](Basics/Data%20Structure/Tuples/README.md)
-- [Arrats](Basics/Data%20Structure/Arrays/README.md)
+- [Arrays](Basics/Data%20Structure/Arrays/README.md)

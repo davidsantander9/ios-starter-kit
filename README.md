@@ -19,3 +19,5 @@
 
 ### Control flow
 - [For-in loops](Basics/Control%20Flow/For%20In%20Loop/README.md)
+- [Switch](Basics/Control%20Flow/Switch/README.md)
+- [While](Basics/Control%20Flow/While/README.md)

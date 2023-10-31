@@ -19,3 +19,5 @@ Three primary collection types
 ## Data Structures
 - [Tuples](../Data%20Structure/Tuples/README.md)
 - [Arrays](../Data%20Structure/Arrays/README.md)
+- [Sets](../Data%20Structure/Sets/README.md)
+- [Dictionaries](../Data%20Structure/Dictionaries/README.md)
